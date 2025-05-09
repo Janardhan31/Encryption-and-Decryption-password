@@ -1,18 +1,13 @@
-🔐 C++ Encryption & Decryption with MySQL Integration
-This project demonstrates a simple encryption and decryption system using C++, integrated with a MySQL database to store and retrieve encrypted data. It showcases secure data handling, basic cryptographic logic, and database interaction using C++.
+# C++ Encryption & Decryption with MySQL
 
-✨ Features
-Encrypt and decrypt sensitive data using custom logic
+This project demonstrates encryption and decryption using C++, with data stored securely in a MySQL database.
 
-Store encrypted data securely in MySQL
+## Features
+- Encrypt and decrypt data
+- Store/retrieve encrypted data in MySQL
+- Simple C++ UI
 
-Retrieve and decrypt data on request
+## Tech Stack
+- C++
+- MySQL
 
-Simple C++-based UI for interaction
-
-🛠️ Tech Stack
-C++
-
-MySQL
-
-MySQL Connector/C++
